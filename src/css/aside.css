@@ -1,0 +1,8 @@
+aside {
+   display: inline-block;
+   border: 1px solid transparent;
+   width: 29%;
+   float: right;
+   height: 100vh;
+   margin-right: 5%;
+}

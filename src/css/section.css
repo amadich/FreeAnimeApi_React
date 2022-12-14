@@ -1,0 +1,37 @@
+section {
+   display: inline-block;
+   margin: 5%;
+   width: 50%;
+   height: 100%;
+   border: 1px solid #222;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 3px;
+   border-bottom-right-radius: 10px;
+   border-bottom-left-radius: 3px;
+   background: linear-gradient(white,whitesmoke);
+   animation: rgb_bor 3s linear infinite;
+}
+article {
+   margin: auto;
+   border: 1px solid transparent;
+   width: 90%;
+   height: 90%;
+}
+
+section h2 {
+   padding: 20px;
+   color: orangered;
+}
+article p {
+   color:  #222;
+}
+
+
+
+@keyframes rgb_bor {
+   0% {border: 5px solid red;}
+   25%{border: 5px solid green;}
+   50%{border: 5px solid purple;}
+   75%{border: 5px solid blue;}
+   100%{border: 5px solid red;}
+}

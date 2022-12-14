@@ -1,0 +1,12 @@
+footer {
+   margin-top: 100%;
+}
+#footer_ab {
+   border: 1px solid plum;
+   text-align: center;
+   background: linear-gradient(plum,pink);
+}
+
+a {
+   text-decoration: none;
+}

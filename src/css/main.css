@@ -1,0 +1,13 @@
+html {
+   cursor: url(../img/cursor.png) , pointer;
+}
+body {
+   margin: 0;
+   background-image: url(../img/201.png);
+}
+* {
+   font-family: 'Rubik Spray Paint', cursive;
+}
+#root {
+   margin: 0;
+}

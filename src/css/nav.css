@@ -1,0 +1,15 @@
+nav {
+   position: relative;
+   border: 1px solid transparent;
+   height: 250px;
+   background-color: rgb(111, 19, 139);
+   margin: 0;
+}
+
+#title_nav {
+   position: relative;
+   color: rgb(255, 114, 156);
+   margin: 2em;
+   margin-top: 2.5em;
+   font-size: 50px;
+}
