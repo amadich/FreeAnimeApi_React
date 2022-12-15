@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FreeAnimeApi_React/static/css/main.af6d9677.css",
+    "main.js": "/FreeAnimeApi_React/static/js/main.77fbc6f7.js",
+    "static/media/rias.png": "/FreeAnimeApi_React/static/media/rias.1a832b22c47751783c74.png",
+    "static/media/koneko.png": "/FreeAnimeApi_React/static/media/koneko.a3841fc9849a29d94a57.png",
+    "static/media/akeno.png": "/FreeAnimeApi_React/static/media/akeno.9c0180c9a02d406372f5.png",
+    "static/media/irina.png": "/FreeAnimeApi_React/static/media/irina.3f7b6aa02bdac47a9282.png",
+    "static/media/201.png": "/FreeAnimeApi_React/static/media/201.9bd1c28489a958d0265b.png",
+    "static/media/asia.png": "/FreeAnimeApi_React/static/media/asia.7fcb3fc327e141026d94.png",
+    "index.html": "/FreeAnimeApi_React/index.html",
+    "main.af6d9677.css.map": "/FreeAnimeApi_React/static/css/main.af6d9677.css.map",
+    "main.77fbc6f7.js.map": "/FreeAnimeApi_React/static/js/main.77fbc6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6d9677.css",
+    "static/js/main.77fbc6f7.js"
+  ]
+}
