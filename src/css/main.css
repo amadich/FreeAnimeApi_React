@@ -1,5 +1,6 @@
 html {
    cursor: url(../img/cursor.png) , pointer;
+   scroll-behavior:smooth;
 }
 body {
    margin: 0;
